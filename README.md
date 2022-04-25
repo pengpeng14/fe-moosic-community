@@ -16,5 +16,5 @@ npm start
 
 ## **Authors**
 
-- [pengpeng14](github.com/pengpeng14) (me)
-- [surayut99](github.com/surayut99)
+- [pengpeng14](https://github.com/pengpeng14) (me)
+- [surayut99](https://github.com/surayut99)
