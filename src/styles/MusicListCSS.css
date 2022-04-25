@@ -1,0 +1,33 @@
+#MusicListHover:hover {
+  background-color: rgb(230, 230, 230);
+  /* color: white; */
+}
+
+/* .MuiSlider-root {
+  padding: 0;
+} */
+
+#ExportButton:hover {
+  background-color: rgb(232, 213, 241);
+}
+
+/*
+.Mui-checked {
+  color: rgb(137, 25, 180);
+}
+
+.MuiButtonBase-root-MuiCheckbox-root {
+  color: rgb(137, 25, 180);
+}
+
+.MuiButtonBase-root-MuiCheckbox-root.Mui-checked {
+  color: rgb(137, 25, 180);
+}
+
+.MuiButtonBase-root-MuiCheckbox-root.MuiCheckbox-indeterminate {
+  color: rgb(137, 25, 180) !important;
+}
+
+.MuiCheckbox-root {
+  color: rgb(137, 25, 180);
+} */

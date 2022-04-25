@@ -1,0 +1,15 @@
+.MuiButtonBase-root-MuiMenuItem-root {
+  min-height: 20px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.MuiMenu-list {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.MuiButtonBase-root-MuiMenuItem-root + .MuiDivider-root {
+  margin-top: 0;
+  margin-bottom: 0;
+}

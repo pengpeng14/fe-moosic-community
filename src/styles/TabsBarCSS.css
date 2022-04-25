@@ -1,0 +1,43 @@
+.MuiTabs-root {
+  border-radius: 15px;
+  background-color: rgb(135, 37, 180);
+  /* padding-left: 30px; */
+  /* padding-right: 30px; */
+  width: 100%;
+  align-items: center;
+}
+
+/* .MuiTabs-indicator {
+  background-color: white;
+  margin-bottom: 5px;
+  height: 3px;
+  width: 50px;
+} */
+
+
+
+.MuiButtonBase-root {
+  color: thistle;
+}
+
+.Mui-selected {
+  color: white !important;
+  font-weight: bold;
+}
+
+.MuiTabs-indicator {
+  display: flex;
+  align-items: center;
+  display: none;
+}
+
+.MuiTabs-scroller {
+  display: flex;
+  align-items: center;
+}
+
+.MuiTabs-flexContainer {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
